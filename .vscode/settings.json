@@ -1,0 +1,5 @@
+{
+    "pylint.args": [
+        "--unsafe-load-any-extension=y"
+    ]
+}
